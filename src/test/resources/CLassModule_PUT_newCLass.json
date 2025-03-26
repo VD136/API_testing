@@ -1,0 +1,92 @@
+{
+  "validclassID": {
+    "batchId": 8432,
+    "classNo": 1,
+    "classDate": "2025-03-26T19:04:41.220Z",
+    "classTopic": "AI and ML",
+    "classStatus": "active",
+    "classStaffId": "U02",
+    "classDescription": "String",
+    "classComments": " ",
+    "classNotes": "string",
+    "classRecordingPath": "string",
+    "classScheduledDates": [
+      "2025-03-29T19:04:41.220Z"
+    ]
+  },
+  "invalidclassID": {
+    "batchId": 8432,
+    "classNo": 1,
+    "classDate": "2025-03-26T19:04:41.220Z",
+    "classTopic": "AI or test",
+    "classStatus": "string",
+    "classStaffId": "U02",
+    "classDescription": "String",
+    "classComments": " ",
+    "classNotes": "string",
+    "classRecordingPath": "string",
+    "classScheduledDates": [
+      "2025-03-28T19:04:41.220Z"
+    ]
+  },
+  "invaliddata": {
+    "batchId": 8400,
+    "classNo": 11,
+    "classDate": "2025-03-26T19:04:41.220Z",
+    "classTopic": "AI",
+    "classStatus": "string",
+    "classStaffId": "U02",
+    "classDescription": "String",
+    "classComments": " ",
+    "classNotes": "string",
+    "classRecordingPath": "string",
+    "classScheduledDates": [
+      "2025-03-28T19:04:41.220Z"
+    ]
+  },
+  "invalidendpoint": {
+    "batchId": 8432,
+    "classNo": 1,
+    "classDate": "2025-03-26T19:04:41.220Z",
+    "classTopic": "AI",
+    "classStatus": "string",
+    "classStaffId": "U02",
+    "classDescription": "String",
+    "classComments": " ",
+    "classNotes": "string",
+    "classRecordingPath": "string",
+    "classScheduledDates": [
+      "2025-03-28T19:04:41.220Z"
+    ]
+  },
+  "invalidmethod": {
+    "batchId": 8432,
+    "classNo": 1,
+    "classDate": "2025-03-26T19:04:41.220Z",
+    "classTopic": "AI",
+    "classStatus": "string",
+    "classStaffId": "U02",
+    "classDescription": "String",
+    "classComments": " ",
+    "classNotes": "string",
+    "classRecordingPath": "string",
+    "classScheduledDates": [
+      "2025-03-28T19:04:41.220Z"
+    ]
+  },
+  "noauthorization": {
+    "batchId": 8432,
+    "classNo": 1,
+    "classDate": "2025-03-26T19:04:41.220Z",
+    "classTopic": "AI",
+    "classStatus": "string",
+    "classStaffId": "U02",
+    "classDescription": "String",
+    "classComments": " ",
+    "classNotes": "string",
+    "classRecordingPath": "string",
+    "classScheduledDates": [
+      "2025-03-28T19:04:41.220Z"
+    ]
+  }
+}
